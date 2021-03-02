@@ -88,3 +88,14 @@
 
     * [Looking Busy](https://github.com/alardosa/automate-boring-stuff/blob/master/Chapter%2018/looking_busy.py)
     * [Instant Messenger Bot](https://github.com/alardosa/automate-boring-stuff/blob/master/Chapter%2018/im_bot.py)
+
+### References
+
+[Automate the Boring Stuff with Python Programming ](https://www.udemy.com/course/automate/)
+
+## Contact
+You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
+
+or visit my website at:
+
+[www.alardosa.com](https://www.alardosa.com)
