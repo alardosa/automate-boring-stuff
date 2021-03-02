@@ -89,6 +89,7 @@
     * [Instant Messenger Bot](https://github.com/alardosa/automate-boring-stuff/blob/master/Chapter%2018/im_bot.py)
 
 ### References
+[How Automate the Boring Stuff With Python – Brilliant Tips for Newbies](https://www.alardosa.com/python-automate-boring-stuff/)
 
 [Automate the Boring Stuff with Python Programming ](https://www.udemy.com/course/automate/)
 
